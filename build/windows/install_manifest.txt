@@ -1,0 +1,10 @@
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/icudtl.dat
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/flutter_windows.dll
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/flutterapps/dartpr/currency_convertor/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

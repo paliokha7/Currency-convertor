@@ -1,0 +1,10 @@
+^C:\FLUTTERAPPS\DARTPR\CURRENCY_CONVERTOR\BUILD\WINDOWS\CMAKEFILES\397F8248BF45644F4E9FEDB7AAACCCB7\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

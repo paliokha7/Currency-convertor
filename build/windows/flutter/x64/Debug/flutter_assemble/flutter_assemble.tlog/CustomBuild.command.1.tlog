@@ -1,0 +1,28 @@
+^C:\FLUTTERAPPS\DARTPR\CURRENCY_CONVERTOR\BUILD\WINDOWS\CMAKEFILES\641B00BCCB0315FC52B88E4A8B7E4CFB\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter\flutter PROJECT_DIR=C:\flutterapps\dartpr\currency_convertor FLUTTER_ROOT=C:\flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\flutterapps\dartpr\currency_convertor\windows\flutter\ephemeral PROJECT_DIR=C:\flutterapps\dartpr\currency_convertor FLUTTER_TARGET=C:\flutterapps\dartpr\currency_convertor\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC83NjdkOGM3NWU4OTgwOTFiOTI1NTE5ODAzODMwZmMyNzIxNjU4ZDA3Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\flutterapps\dartpr\currency_convertor\.dart_tool\package_config.json C:/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FLUTTERAPPS\DARTPR\CURRENCY_CONVERTOR\BUILD\WINDOWS\CMAKEFILES\8FC6F62AFB294FD7813BB385AA068593\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FLUTTERAPPS\DARTPR\CURRENCY_CONVERTOR\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/flutterapps/dartpr/currency_convertor/windows -BC:/flutterapps/dartpr/currency_convertor/build/windows --check-stamp-file C:/flutterapps/dartpr/currency_convertor/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

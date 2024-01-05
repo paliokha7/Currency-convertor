@@ -1,0 +1,4 @@
+#Tue Oct 31 16:23:07 EET 2023
+base.0=C\:\\flutterapps\\dartpr\\currency_convertor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

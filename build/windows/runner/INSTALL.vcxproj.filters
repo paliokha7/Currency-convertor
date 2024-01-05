@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\flutterapps\dartpr\currency_convertor\build\windows\CMakeFiles\bc7340dcd6119e6e8ab7b7091fffa566\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{146F7B5F-A2A6-3EE9-9320-0A17AFCF6E93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
